@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 def find_a_sequence_inside_another_sequence(seq, seq_to_find):
-    """Check if a sequence exist in another sequence
+    """Check if a sequence exists in another sequence
 
        Example:
            seq = [1,2,4,5,6,2,3,1,2,3,4]
